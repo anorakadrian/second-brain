@@ -1,0 +1,9 @@
+{
+  "name": "second-brain",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Static second-brain vault for Vercel. No build step.",
+  "scripts": {
+    "start": "python3 -m http.server 3000"
+  }
+}
